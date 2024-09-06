@@ -1,4 +1,10 @@
 ## Hi there 👋
+- ❤️‍🩹 I’m currently working on my recovery
+- 🤓 I’m currently learning python
+- 👯 I’m looking to collaborate on with anything 🙃
+- 🤔 I’m looking for help with app development
+- 💬 Ask me anything 
+- ⚡ Fun fact: I enjoy doing laser crafts
 
 <!--
 **gabbiem04/gabbiem04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
