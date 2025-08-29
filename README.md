@@ -5,8 +5,8 @@
 Hello! 👋 My name is Gabbie. I am currently a student and serving in the military. Although I have significant expertise in leadership, communication, and project management, I have always been interested in the world of coding and technology. I aim to expand my knowledge in software development, data science, and automation.
 
 ### Background:
-- **Military Professional**: Over 11 years of service with strong leadership, decision-making, and teamwork abilities.
-- **Student**: Currently pursuing Sports and Health Science studies with a concentration in Exercise Sciences.
+- **Military Professional**: Over 12 years of service with strong leadership, decision-making, and teamwork abilities.
+- **Student**: Currently pursuing Computer Science after graduating with my Bachelor's in Sports and Health Science studies with a concentration in Exercise Sciences.
 - **New to Coding**: Eager to learn and adapt, currently working on foundational skills in Python and C code.
 
 ### My Goals:
